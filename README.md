@@ -1,1 +1,3 @@
-# calculator
+#create a calculator capable of performing addition, subtraction, multiplication and division operations on two numbers. Your Program should format  the output in a readable manner
+
+This is a simple Python script that prompts the user for two numbers and an operation to perform on those numbers. The script then performs the requested operation and prints the result in a formatted manner. It uses a series of if-elif statements to determine which operation to perform based on the input, and uses the format() method to print the result in a clean and readable format. If the operation entered is not one of the supported operations, the script will print "Invalid Operator".
