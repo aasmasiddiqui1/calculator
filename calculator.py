@@ -1,6 +1,3 @@
-#create a calculator capable of performing addition, subtraction, multiplication and division operations on two numbers. 
-#Your Program should format  the output in a readable manner
-
 #Get input from user
 num1 = float(input("Enter first number"))
 num2 = float(input("Enter second number"))
